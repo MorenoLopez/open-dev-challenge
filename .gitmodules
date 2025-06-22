@@ -1,0 +1,6 @@
+[submodule "challenge-HTML-CSSonly"]
+	path = challenge-HTML-CSSonly
+	url = https://github.com/MorenoLopez/challenge-HTML-CSSonly.git
+[submodule "opendev-challenge-2-random-quotes"]
+	path = opendev-challenge-2-random-quotes
+	url = https://github.com/MorenoLopez/opendev-challenge-2-random-quotes.git
